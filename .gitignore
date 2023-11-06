@@ -1,0 +1,10 @@
+# ignore the node_mouldes directory
+/node_modules
+node_modules/
+
+# other files 
+/dist
+.vscode
+.idea
+DS_store
+
